@@ -6,7 +6,7 @@ sites:
     url: https://api.onli.com.br/v1
     expectedStatusCodes:
       - 404
-  - name: Id
+  - name: ID
     url: https://id.onli.com.br
     expectedStatusCodes:
       - 200
@@ -28,10 +28,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.onli.com.br
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://s3-sa-east-1.amazonaws.com/static.onli.com.br/identity-logos/logo.png
   name: Onli Seguros
   introTitle: Check the status of our services and APIs.
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This page informs the status of our services and APIs, you can use this to check the overall uptime and incident reports.
   navbar:
     - title: Status
       href: /
