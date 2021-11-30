@@ -28,7 +28,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.onli.com.br
   # baseUrl: /your-repo-name
-  logoUrl: https://s3-sa-east-1.amazonaws.com/static.onli.com.br/identity-logos/logo.png
+  logoUrl: https://s3.sa-east-1.amazonaws.com/static.onli.com.br/onli/logo_principal_positivo128.png
   name: Onli Seguros - Status Page
   introTitle: Check the status of our services and APIs.
   introMessage: This page informs the status of our services and APIs, you can use this to check the overall uptime and incident reports.
