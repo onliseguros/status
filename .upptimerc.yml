@@ -33,7 +33,8 @@ status-website:
   logoUrl: https://s3.sa-east-1.amazonaws.com/static.onli.com.br/onli/logo_principal_positivo128.png
   name: Onli Seguros - Status Page
   introTitle: Check the status of our services and APIs.
-  introMessage: This page informs the status of our services and APIs, you can use this to check the overall uptime and incident reports.
+  introMessage: This page informs the status of our services and APIs, you can use this to check the overall uptime and incident reports.]
+  favicon: https://onli.com.br/favicon.ico
   navbar:
     - title: Status
       href: /
