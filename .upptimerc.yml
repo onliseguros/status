@@ -1,8 +1,6 @@
 owner: onliseguros # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
-runner: [self-hosted, Linux, X64]
-
 sites:
   - name: API - v1
     url: https://api.onli.com.br/v1
