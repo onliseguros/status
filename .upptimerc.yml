@@ -1,7 +1,7 @@
 owner: onliseguros # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
-runner: [self-hosted]
+runner: [ubuntu-18.04]
 
 sites:
   - name: API - v1
