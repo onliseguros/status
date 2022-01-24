@@ -58,17 +58,19 @@
     "url": "https://www.onli.com.br",
     "icon": "https://favicons.githubusercontent.com/www.onli.com.br",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 918,
-    "timeDay": 4558,
-    "timeWeek": 3034,
-    "timeMonth": 2307,
-    "timeYear": 918,
-    "dailyMinutesDown": {}
+    "time": 913,
+    "timeDay": 2455,
+    "timeWeek": 2698,
+    "timeMonth": 2229,
+    "timeYear": 913,
+    "dailyMinutesDown": {
+      "2022-01-24": 0
+    }
   }
 ]
