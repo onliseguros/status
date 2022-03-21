@@ -58,9 +58,9 @@
     "url": "https://www.onli.com.br",
     "icon": "https://favicons.githubusercontent.com/www.onli.com.br",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -70,6 +70,7 @@
     "timeMonth": 3126,
     "timeYear": 1660,
     "dailyMinutesDown": {
+      "2022-03-21": 0,
       "2022-01-24": 20
     }
   }
