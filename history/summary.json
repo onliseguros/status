@@ -4,19 +4,19 @@
     "url": "https://api.onli.com.br/v1",
     "icon": "https://favicons.githubusercontent.com/api.onli.com.br",
     "slug": "api-v1",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "64.26%",
-    "uptimeWeek": "94.89%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "99.88%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "62.76%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "99.87%",
     "time": 581,
-    "timeDay": 656,
-    "timeWeek": 602,
-    "timeMonth": 651,
+    "timeDay": 662,
+    "timeWeek": 610,
+    "timeMonth": 652,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2022-07-26": 515
+      "2022-07-26": 536
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://id.onli.com.br",
     "icon": "https://favicons.githubusercontent.com/id.onli.com.br",
     "slug": "id",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "64.26%",
-    "uptimeWeek": "94.89%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "99.88%",
-    "time": 584,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "62.76%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "99.87%",
+    "time": 585,
     "timeDay": 650,
-    "timeWeek": 761,
-    "timeMonth": 691,
-    "timeYear": 584,
+    "timeWeek": 747,
+    "timeMonth": 690,
+    "timeYear": 585,
     "dailyMinutesDown": {
-      "2022-07-26": 515
+      "2022-07-26": 536
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://manager.onli.com.br",
     "icon": "https://favicons.githubusercontent.com/manager.onli.com.br",
     "slug": "manager",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "64.26%",
-    "uptimeWeek": "94.89%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "99.88%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "62.76%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "99.87%",
     "time": 556,
-    "timeDay": 656,
-    "timeWeek": 573,
+    "timeDay": 636,
+    "timeWeek": 578,
     "timeMonth": 609,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-07-26": 515
+      "2022-07-26": 536
     }
   },
   {
