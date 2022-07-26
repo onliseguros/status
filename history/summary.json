@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/api.onli.com.br",
     "slug": "api-v1",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "90.37%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.88%",
+    "uptimeDay": "64.26%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.88%",
     "time": 581,
     "timeDay": 656,
     "timeWeek": 602,
     "timeMonth": 651,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2022-07-26": 139
+      "2022-07-26": 515
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/id.onli.com.br",
     "slug": "id",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "90.37%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.88%",
+    "uptimeDay": "64.26%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.88%",
     "time": 584,
     "timeDay": 650,
     "timeWeek": 761,
     "timeMonth": 691,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2022-07-26": 139
+      "2022-07-26": 515
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/manager.onli.com.br",
     "slug": "manager",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "90.38%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.88%",
+    "uptimeDay": "64.26%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.88%",
     "time": 556,
     "timeDay": 656,
     "timeWeek": 573,
     "timeMonth": 609,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-07-26": 139
+      "2022-07-26": 515
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://www.onli.com.br",
     "icon": "https://favicons.githubusercontent.com/www.onli.com.br",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 2289,
-    "timeDay": 3133,
-    "timeWeek": 2380,
-    "timeMonth": 3861,
-    "timeYear": 2289,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "73.89%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.87%",
+    "time": 2285,
+    "timeDay": 2207,
+    "timeWeek": 2243,
+    "timeMonth": 3780,
+    "timeYear": 2285,
     "dailyMinutesDown": {
-      "2022-07-26": 0,
+      "2022-07-26": 376,
       "2022-03-21": 137,
       "2022-01-24": 20
     }
