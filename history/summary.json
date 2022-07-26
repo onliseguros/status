@@ -4,9 +4,9 @@
     "url": "https://api.onli.com.br/v1",
     "icon": "https://favicons.githubusercontent.com/api.onli.com.br",
     "slug": "api-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 602,
     "timeMonth": 651,
     "timeYear": 581,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-26": 0
+    }
   },
   {
     "name": "ID",
     "url": "https://id.onli.com.br",
     "icon": "https://favicons.githubusercontent.com/id.onli.com.br",
     "slug": "id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 761,
     "timeMonth": 691,
     "timeYear": 584,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-26": 0
+    }
   },
   {
     "name": "Manager",
     "url": "https://manager.onli.com.br",
     "icon": "https://favicons.githubusercontent.com/manager.onli.com.br",
     "slug": "manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 573,
     "timeMonth": 609,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-26": 0
+    }
   },
   {
     "name": "Website",
